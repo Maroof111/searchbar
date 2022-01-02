@@ -1,5 +1,5 @@
 <?php
-include("config.php");
+include("https://github.com/Maroof111/searchbar/blob/main/config.php");
 $name= $_POST["name"];
 $password= $_POST["password"];
 
